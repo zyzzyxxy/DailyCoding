@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5800ba82-b63e-4507-b3c0-9fd7b11b5351" name="Default Changelist" comment="" />
+    <list default="true" id="5800ba82-b63e-4507-b3c0-9fd7b11b5351" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OtherStuff/Trading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6_2020/Problem105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6_2020/Problem107.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p10_to_19/Problem10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p1_to_9/Problem6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p1_to_9/Problem7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p1_to_9/Problem8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p1_to_9/Problem9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DailyCoding/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DailyCoding/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DailyCoding/Week43/Problem1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DailyCoding/Week43/Problem2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DailyCoding/Week43/Problem3$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DailyCoding/Week43/Problem3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DailyCoding/Week43/Problem4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DailyCoding/Week43/Problem5$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DailyCoding/Week43/Problem5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week43/Problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1_to_9/Problem1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week43/Problem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1_to_9/Problem2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week43/Problem3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1_to_9/Problem3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week43/Problem4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1_to_9/Problem4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week43/Problem5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1_to_9/Problem5.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,16 +41,27 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SZGzah3Huq1iviqUPSNlaYf8Kp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/OtherStuff" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/OtherStuff" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -68,10 +105,48 @@
       <workItem from="1571986169873" duration="999000" />
       <workItem from="1571994760263" duration="564000" />
       <workItem from="1572031317261" duration="6617000" />
+      <workItem from="1572167506680" duration="381000" />
+      <workItem from="1572331007290" duration="9560000" />
+      <workItem from="1574947817514" duration="30000" />
+      <workItem from="1581020466739" duration="7544000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Week6_2020/Problem107.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Week6_2020/Problem107.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Week6_2020/Problem107.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,21 +1,26 @@
-import Week43.*;
+import p10_to_19.Problem10;
+import p1_to_9.Problem7;
+import p1_to_9.Problem9;
 
-import static Week43.Problem2.productOfOthers;
-import static Week43.Problem2.productOfOthersNoDiv;
-import static Week43.Problem3.Node.*;
+import java.io.IOException;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException, InterruptedException {
         int[] nbrs1 = {1, 2, 3};
         int[] nbrs2 = {1, 2, 5, 4};
         int[] nbrs3 = {1, 2, 3, 4, 5, 6, 7};
         int[] nbrs4 = {1, 2, 3, 4, 5, 6, 7};
         //int goal = 10;
         //System.out.println(canNumbersAddUp(nbr,goal));
-
+        //Trading trading = new Trading();
 
         //Problem3 p3 = new Problem3();
         //Problem4 p4 = new Problem4();
-        Problem5 p5 = new Problem5();
+        //Problem5 p5 = new Problem5();
+
+       // Problem107 p107 = new Problem107();
+        //Problem7 p7 = new Problem7("7151");
+        //Problem9 p9 = new Problem9();
+        Problem10 p10 = new Problem10();
     }
 }
