@@ -2,31 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5800ba82-b63e-4507-b3c0-9fd7b11b5351" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherStuff/Trading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week6_2020/Problem105.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week6_2020/Problem107.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p10_to_19/Problem10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p1_to_9/Problem6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p1_to_9/Problem7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p1_to_9/Problem8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p1_to_9/Problem9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p110_to_119/Problem110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p110_to_119/Problem115.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p200_to_209/p202.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DailyCoding/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DailyCoding/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DailyCoding/Week43/Problem1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DailyCoding/Week43/Problem2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DailyCoding/Week43/Problem3$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DailyCoding/Week43/Problem3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DailyCoding/Week43/Problem4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DailyCoding/Week43/Problem5$Pair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DailyCoding/Week43/Problem5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DailyCoding/p10_to_19/Problem10$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DailyCoding/p10_to_19/Problem10$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DailyCoding/p10_to_19/Problem10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DailyCoding/p10_to_19/Problem10.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week43/Problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1_to_9/Problem1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week43/Problem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1_to_9/Problem2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week43/Problem3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1_to_9/Problem3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week43/Problem4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1_to_9/Problem4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week43/Problem5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1_to_9/Problem5.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +94,11 @@
       <workItem from="1572167506680" duration="381000" />
       <workItem from="1572331007290" duration="9560000" />
       <workItem from="1574947817514" duration="30000" />
-      <workItem from="1581020466739" duration="7544000" />
+      <workItem from="1581020466739" duration="9508000" />
+      <workItem from="1581249567368" duration="2140000" />
+      <workItem from="1581710000386" duration="4625000" />
+      <workItem from="1581806194754" duration="3034000" />
+      <workItem from="1589140219509" duration="1230000" />
     </task>
     <servers />
   </component>
