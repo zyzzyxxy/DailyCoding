@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5800ba82-b63e-4507-b3c0-9fd7b11b5351" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Assets/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assets/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assets/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p110_to_119/Problem110.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p110_to_119/Problem115.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p200_to_209/p202.java" afterDir="false" />
+    <list default="true" id="5800ba82-b63e-4507-b3c0-9fd7b11b5351" name="Default Changelist" comment="p202">
+      <change afterPath="$PROJECT_DIR$/src/p210_to_219/p219.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DailyCoding/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DailyCoding/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DailyCoding/p10_to_19/Problem10$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DailyCoding/p10_to_19/Problem10$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DailyCoding/p10_to_19/Problem10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DailyCoding/p10_to_19/Problem10.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p210_to_219/p216.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p210_to_219/p216.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +92,10 @@
       <workItem from="1581249567368" duration="2140000" />
       <workItem from="1581710000386" duration="4625000" />
       <workItem from="1581806194754" duration="3034000" />
-      <workItem from="1589140219509" duration="1230000" />
+      <workItem from="1589140219509" duration="1326000" />
+      <workItem from="1589348088976" duration="614000" />
+      <workItem from="1590343330845" duration="2206000" />
+      <workItem from="1590863460984" duration="7856000" />
     </task>
     <servers />
   </component>
@@ -118,6 +115,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="p202" />
+    <option name="LAST_COMMIT_MESSAGE" value="p202" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -135,6 +136,11 @@
           <url>file://$PROJECT_DIR$/src/Week6_2020/Problem107.java</url>
           <line>26</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/p210_to_219/p216.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
