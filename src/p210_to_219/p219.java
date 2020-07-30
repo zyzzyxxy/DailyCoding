@@ -119,14 +119,10 @@ public class p219 {
                         winner = last_nbr_right_eft;
                         return true;
                     }
-
                 }
             }
         }
-
-
         return false;
-
     }
 
     private boolean checkHorizontalWin() {
@@ -196,6 +192,5 @@ public class p219 {
         if (!gameOver)
             System.out.println(players.get(turn % 2 + 1) + "'s turn");
     }
-
 
 }

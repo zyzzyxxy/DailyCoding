@@ -7,6 +7,7 @@ import p1_to_9.Problem9;
 import p200_to_209.p202;
 import p210_to_219.p216;
 import p210_to_219.p219;
+import p280_to_289.*;
 
 import java.io.IOException;
 
@@ -31,7 +32,9 @@ public class Main {
         //Problem115 p115 = new Problem115();
         //p202 prob202 = new p202();
         //p216 hajj = new p216();
-        p219 connect4 = new p219();
+//        p219 connect4 = new p219();
+        p282 _p282 = new p282();
+        _p282.test();
     }
 
 }
