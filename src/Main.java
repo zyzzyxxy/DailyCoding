@@ -12,7 +12,7 @@ import p280_to_289.*;
 import java.io.IOException;
 
 public class Main {
-    public static void main(String[] args) throws IOException, InterruptedException {
+    public static void main(String[] args) throws Exception {
         int[] nbrs1 = {1, 2, 3};
         int[] nbrs2 = {1, 2, 5, 4};
         int[] nbrs3 = {1, 2, 3, 4, 5, 6, 7};
@@ -33,8 +33,10 @@ public class Main {
         //p202 prob202 = new p202();
         //p216 hajj = new p216();
 //        p219 connect4 = new p219();
-        p282 _p282 = new p282();
-        _p282.test();
+//        p282 _p282 = new p282();
+//        _p282.test();
+        p281 p281 = new p281();
+        p281.testClass();
     }
 
 }
