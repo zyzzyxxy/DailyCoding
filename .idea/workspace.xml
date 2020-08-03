@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5800ba82-b63e-4507-b3c0-9fd7b11b5351" name="Default Changelist" comment="p202">
-      <change afterPath="$PROJECT_DIR$/src/p280_to_289/p281.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p280_to_289/p283.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -97,7 +97,8 @@
       <workItem from="1590863460984" duration="8337000" />
       <workItem from="1591036221809" duration="730000" />
       <workItem from="1591812383340" duration="876000" />
-      <workItem from="1596140874770" duration="7164000" />
+      <workItem from="1596140874770" duration="7333000" />
+      <workItem from="1596486579987" duration="1519000" />
     </task>
     <servers />
   </component>
@@ -158,6 +159,16 @@
           <url>file://$PROJECT_DIR$/src/p280_to_289/p281.java</url>
           <line>50</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/p280_to_289/p283.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/p280_to_289/p283.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

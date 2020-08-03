@@ -35,8 +35,10 @@ public class Main {
 //        p219 connect4 = new p219();
 //        p282 _p282 = new p282();
 //        _p282.test();
-        p281 p281 = new p281();
-        p281.testClass();
+//        p281 p281 = new p281();
+//        p281.testClass();
+        p283 p283 = new p283();
+        p283.test();
     }
 
 }
