@@ -86,6 +86,11 @@ public class Printer {
                 return 1 + Math.max(checkTreeLevel(n.left), checkTreeLevel(n.right));
             }
         }
+    }
 
+    public static <T> void printArray(T[] arr){
+        for (T object:arr) {
+            System.out.println(object);
+        }
     }
 }

@@ -2,11 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5800ba82-b63e-4507-b3c0-9fd7b11b5351" name="Default Changelist" comment="p202">
-      <change afterPath="$PROJECT_DIR$/src/p280_to_289/p283.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DailyCoding/p370_to_379/p372.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DailyCoding/p370_to_379/p373.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DailyCoding/p370_to_379/p374.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DailyCoding/p400_to_409/p402.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DailyCoding/p400_to_409/p403.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DailyCoding/p400_to_409/p404$interval.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DailyCoding/p400_to_409/p404.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DailyCoding/p420_to429/p422.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DailyCoding/p440_to_449/p447.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DailyCoding/p509.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DailyCoding/p560_to_569/p565.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/Words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p370_to_379/p372.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p370_to_379/p373.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p370_to_379/p374.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p400_to_409/p402.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p400_to_409/p403.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p400_to_409/p404.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p420_to429/p422.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p440_to_449/p447.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p509.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p560_to_569/p565.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p560_to_569/p566.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p560_to_569/p568.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p642.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p654.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p661.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teslaCounting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DailyCoding/Assets/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DailyCoding/Assets/BinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DailyCoding/Assets/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DailyCoding/Assets/Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DailyCoding/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DailyCoding/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assets/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assets/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assets/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assets/Printer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,11 +55,16 @@
   </component>
   <component name="ProjectId" id="1SZGzah3Huq1iviqUPSNlaYf8Kp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/OtherStuff" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -40,18 +76,6 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/OtherStuff" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -68,6 +92,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -98,7 +123,9 @@
       <workItem from="1591036221809" duration="730000" />
       <workItem from="1591812383340" duration="876000" />
       <workItem from="1596140874770" duration="7333000" />
-      <workItem from="1596486579987" duration="1519000" />
+      <workItem from="1596486579987" duration="2228000" />
+      <workItem from="1599423864205" duration="586000" />
+      <workItem from="1599471245961" duration="34000" />
     </task>
     <servers />
   </component>
@@ -110,17 +137,58 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="p202" />
     <option name="LAST_COMMIT_MESSAGE" value="p202" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="345" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1627839425036">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="548" y="345" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1627839425036" />
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom" timestamp="1633511138016">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1633511138016" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center" timestamp="1633511138016">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1633511138016" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left" timestamp="1633511138015">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1633511138015" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right" timestamp="1633511138016">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1633511138016" />
+    <state width="1638" height="286" key="GridCell.Tab.1.bottom" timestamp="1630441954537">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="286" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1630441954537" />
+    <state width="1638" height="286" key="GridCell.Tab.1.center" timestamp="1630441954536">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="286" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1630441954536" />
+    <state width="1638" height="286" key="GridCell.Tab.1.left" timestamp="1630441954536">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="286" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1630441954536" />
+    <state width="1638" height="286" key="GridCell.Tab.1.right" timestamp="1630441954536">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="286" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1630441954536" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1629463788099">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1629463788099" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -170,7 +238,97 @@
           <line>47</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/p400_to_409/p402.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Assets/BinaryTree.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Assets/BinaryTree.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Assets/BinaryTree.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/p440_to_449/p447.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/p440_to_449/p447.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/p440_to_449/p447.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/p560_to_569/p565.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
   </component>
 </project>
